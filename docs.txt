@@ -1,0 +1,19 @@
+React
+↓
+Axios
+↓
+FastAPI Router
+↓
+Service Layer
+↓
+Prompt Builder
+↓
+Ollama
+↓
+Llama 3.2
+↓
+JSON Response
+↓
+Pydantic Validation
+↓
+React UI

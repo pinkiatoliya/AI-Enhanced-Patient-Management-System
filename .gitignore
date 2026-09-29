@@ -1,0 +1,14 @@
+# Backend
+backend-pms/fastenv/
+backend-pms/__pycache__/
+backend-pms/.env
+
+# Frontend
+frontend-pms/node_modules/
+
+# Python
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
